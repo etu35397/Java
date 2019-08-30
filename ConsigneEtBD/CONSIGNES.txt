@@ -1,0 +1,43 @@
+Bonjour à tous les deux.
+
+ 
+
+Voici les nouvelles consignes pour la seconde session :
+
+ 
+
+Consignes générales
+
+Vous travaillez de manière individuelle.
+Vous respectez toujours les contraintes reprises dans l'énoncé initial et posté sur Moodle.
+Vos travaux terminés devront être disponibles sur Git pour le 26 aout 8h00 au plus tard et vous devez me donner accès si ce n'est déjà fait.
+Si, à un moment ou un autre, vous décidez de ne pas présenter l'examen, merci de me prévenir suffisamment tôt.
+Vous pouvez toujours me poser des questions par mail durant les vacances sans garantie que je vous réponde de suite évidemment.
+Remarques sur le dossier remis en juin :
+
+---- FAIT ----  Revoir la taille des fenêtres et le layout afin de rentre l'interface plus conviviale
+---- FAIT ---- Ne pas laisser la possibilité à l'utilisateur d'ouvrir plusieurs fois la même fenêtre
+
+Pour la commande :
+
+	---- FAIT ----	permettre la commande d'une même pizza en plusieurs exemplaires => ajout d'une quantité
+	---- FAIT ----  l'adresse doit être facultative dans certains cas
+	---- FAIT ----	le numéro de maison n'est pas entier
+	---- FAIT ----  prévoir un listing de la table pour vérification de l'insertion, des modifications et des suppression
+
+---- FAIT ---- La suppression ne fonctionne pas (pop-up d'erreur, cast booléen)
+---- FAIT ---- Permettre la modification du contenu de la commande, des pizzas choisies et de leur quantité aussi
+---- FAIT ---- Les recherches doivent absolument mener à une jointure entre 3 tables
+---- FAIT ---- Faire quelques tests unitaires
+---- FAIT ---- Checks dans le script de la BD
+---- FAIT ----  Revoir la classe contenant la connexion et le design pattern singleton
+
+- Revoir l'orthographe
+- Refaire un dossier correct
+
+
+·         Pour Pierre-Henri :
+
+---- FAIT ---- insertion et modification d'une commande
+---- FAIT ---- recherche : nom, prénom et date de commande (sorties) des clients ayant commandé une pizza donnée (critère d'entrée) entre 2 dates données (critères d'entrées)
+---- FAIT ---- une tâche métier : afficher pour une pizzéria choisie (critère d'entrée) le prix moyen des commandes effectuées entre 2 dates données (critères d'entrée)

@@ -1,0 +1,7 @@
+#.exemple
+misc.xml
+workspace.xml
+# Compiled class file
+/**/*.class
+.idea/
+/*.idea/
